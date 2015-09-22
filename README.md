@@ -1,2 +1,2 @@
 # konsey
-Roughly rhymes with "own way."
+Roughly rhymes with "own way".
